@@ -1,0 +1,1255 @@
+Without any merging of the segments
+For standard segment size: 
+     Start      End    Speaker
+0  0:00:00  0:00:04  SPEAKER 2
+1  0:00:04  0:00:27  SPEAKER 1
+2  0:00:27  0:00:31  SPEAKER 2
+3  0:00:31  0:00:54  SPEAKER 1
+4  0:00:54  0:00:57  SPEAKER 2
+5  0:00:57  0:01:21  SPEAKER 1
+6  0:01:21  0:01:26  SPEAKER 2
+7  0:01:26  0:01:56  SPEAKER 1
+Transcription results saved at: /content/TEST-1.csv
+Transcribing with chunk size: 0.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 0.5 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration0.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration0.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration0.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration0.5.mp4
+
+Transcribing with chunk size: 1.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 1.0 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration1.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration1.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration1.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration1.0.mp4
+
+Transcribing with chunk size: 1.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 1.5 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration1.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration1.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration1.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration1.5.mp4
+
+Transcribing with chunk size: 2.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 2.0 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration2.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration2.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration2.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration2.0.mp4
+
+Transcribing with chunk size: 2.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 2.5 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration2.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration2.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration2.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration2.5.mp4
+
+
+Transcribing with chunk size: 3.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 3.0 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration3.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration3.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration3.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration3.0.mp4
+
+Transcribing with chunk size: 3.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 3.5 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration3.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration3.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration3.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration3.5.mp4
+
+Transcribing with chunk size: 4.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 4.0 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration4.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration4.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration4.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration4.0.mp4
+
+Transcribing with chunk size: 4.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 4.5 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration4.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration4.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration4.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration4.5.mp4
+
+Transcribing with chunk size: 5.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 5.0 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration5.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration5.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration5.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration5.0.mp4
+
+Transcribing with chunk size: 5.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 5.5 second segment size: 0.4208
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:54  SPEAKER 1
+10  0:00:54  0:00:57  SPEAKER 2
+11  0:00:57  0:01:03  SPEAKER 1
+12  0:01:04  0:01:08  SPEAKER 1
+13  0:01:09  0:01:14  SPEAKER 1
+14  0:01:14  0:01:21  SPEAKER 1
+15  0:01:21  0:01:26  SPEAKER 2
+16  0:01:26  0:01:34  SPEAKER 1
+17  0:01:34  0:01:38  SPEAKER 1
+18  0:01:38  0:01:44  SPEAKER 1
+19  0:01:44  0:01:49  SPEAKER 1
+20  0:01:49  0:01:52  SPEAKER 1
+21  0:01:52  0:01:56  SPEAKER 1
+22  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration5.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration5.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration5.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration5.5.mp4
+
+Transcribing with chunk size: 6.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 6.0 second segment size: 0.4157
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:57  SPEAKER 1
+10  0:00:57  0:01:03  SPEAKER 1
+11  0:01:04  0:01:08  SPEAKER 1
+12  0:01:09  0:01:14  SPEAKER 1
+13  0:01:14  0:01:21  SPEAKER 1
+14  0:01:21  0:01:26  SPEAKER 2
+15  0:01:26  0:01:34  SPEAKER 1
+16  0:01:34  0:01:38  SPEAKER 1
+17  0:01:38  0:01:44  SPEAKER 1
+18  0:01:44  0:01:49  SPEAKER 1
+19  0:01:49  0:01:52  SPEAKER 1
+20  0:01:52  0:01:56  SPEAKER 1
+21  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration6.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration6.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration6.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration6.0.mp4
+
+Transcribing with chunk size: 6.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 6.5 second segment size: 0.4157
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:57  SPEAKER 1
+10  0:00:57  0:01:03  SPEAKER 1
+11  0:01:04  0:01:08  SPEAKER 1
+12  0:01:09  0:01:14  SPEAKER 1
+13  0:01:14  0:01:21  SPEAKER 1
+14  0:01:21  0:01:26  SPEAKER 2
+15  0:01:26  0:01:34  SPEAKER 1
+16  0:01:34  0:01:38  SPEAKER 1
+17  0:01:38  0:01:44  SPEAKER 1
+18  0:01:44  0:01:49  SPEAKER 1
+19  0:01:49  0:01:52  SPEAKER 1
+20  0:01:52  0:01:56  SPEAKER 1
+21  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration6.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration6.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration6.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration6.5.mp4
+
+Transcribing with chunk size: 7.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 7.0 second segment size: 0.4157
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:04  SPEAKER 2
+1   0:00:04  0:00:07  SPEAKER 1
+2   0:00:07  0:00:13  SPEAKER 1
+3   0:00:13  0:00:21  SPEAKER 1
+4   0:00:21  0:00:27  SPEAKER 1
+5   0:00:27  0:00:31  SPEAKER 2
+6   0:00:31  0:00:37  SPEAKER 1
+7   0:00:37  0:00:44  SPEAKER 1
+8   0:00:44  0:00:51  SPEAKER 1
+9   0:00:51  0:00:57  SPEAKER 1
+10  0:00:57  0:01:03  SPEAKER 1
+11  0:01:04  0:01:08  SPEAKER 1
+12  0:01:09  0:01:14  SPEAKER 1
+13  0:01:14  0:01:21  SPEAKER 1
+14  0:01:21  0:01:26  SPEAKER 2
+15  0:01:26  0:01:34  SPEAKER 1
+16  0:01:34  0:01:38  SPEAKER 1
+17  0:01:38  0:01:44  SPEAKER 1
+18  0:01:44  0:01:49  SPEAKER 1
+19  0:01:49  0:01:52  SPEAKER 1
+20  0:01:52  0:01:56  SPEAKER 1
+21  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration7.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration7.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration7.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration7.0.mp4
+
+Transcribing with chunk size: 7.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 7.5 second segment size: 0.4173
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:27  SPEAKER 1
+4   0:00:27  0:00:31  SPEAKER 2
+5   0:00:31  0:00:37  SPEAKER 1
+6   0:00:37  0:00:44  SPEAKER 1
+7   0:00:44  0:00:51  SPEAKER 1
+8   0:00:51  0:00:57  SPEAKER 1
+9   0:00:57  0:01:03  SPEAKER 1
+10  0:01:04  0:01:08  SPEAKER 1
+11  0:01:09  0:01:14  SPEAKER 1
+12  0:01:14  0:01:21  SPEAKER 1
+13  0:01:21  0:01:26  SPEAKER 2
+14  0:01:26  0:01:34  SPEAKER 1
+15  0:01:34  0:01:38  SPEAKER 1
+16  0:01:38  0:01:44  SPEAKER 1
+17  0:01:44  0:01:49  SPEAKER 1
+18  0:01:49  0:01:56  SPEAKER 1
+19  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration7.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration7.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration7.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration7.5.mp4
+
+Transcribing with chunk size: 8.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 8.0 second segment size: 0.4170
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:27  SPEAKER 1
+4   0:00:27  0:00:31  SPEAKER 2
+5   0:00:31  0:00:37  SPEAKER 1
+6   0:00:37  0:00:44  SPEAKER 1
+7   0:00:44  0:00:51  SPEAKER 1
+8   0:00:51  0:00:57  SPEAKER 1
+9   0:00:57  0:01:03  SPEAKER 1
+10  0:01:04  0:01:08  SPEAKER 1
+11  0:01:09  0:01:14  SPEAKER 1
+12  0:01:14  0:01:21  SPEAKER 1
+13  0:01:21  0:01:26  SPEAKER 2
+14  0:01:26  0:01:34  SPEAKER 1
+15  0:01:34  0:01:38  SPEAKER 1
+16  0:01:38  0:01:44  SPEAKER 1
+17  0:01:44  0:01:52  SPEAKER 1
+18  0:01:52  0:01:56  SPEAKER 1
+19  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration8.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration8.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration8.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration8.0.mp4
+
+Transcribing with chunk size: 8.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 8.5 second segment size: 0.4170
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:27  SPEAKER 1
+4   0:00:27  0:00:31  SPEAKER 2
+5   0:00:31  0:00:37  SPEAKER 1
+6   0:00:37  0:00:44  SPEAKER 1
+7   0:00:44  0:00:51  SPEAKER 1
+8   0:00:51  0:00:57  SPEAKER 1
+9   0:00:57  0:01:03  SPEAKER 1
+10  0:01:04  0:01:08  SPEAKER 1
+11  0:01:09  0:01:14  SPEAKER 1
+12  0:01:14  0:01:21  SPEAKER 1
+13  0:01:21  0:01:26  SPEAKER 2
+14  0:01:26  0:01:34  SPEAKER 1
+15  0:01:34  0:01:38  SPEAKER 1
+16  0:01:38  0:01:44  SPEAKER 1
+17  0:01:44  0:01:52  SPEAKER 1
+18  0:01:52  0:01:56  SPEAKER 1
+19  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration8.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration8.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration8.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration8.5.mp4
+
+Transcribing with chunk size: 9.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 9.0 second segment size: 0.4394
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:27  SPEAKER 1
+4   0:00:27  0:00:31  SPEAKER 2
+5   0:00:31  0:00:37  SPEAKER 1
+6   0:00:37  0:00:44  SPEAKER 1
+7   0:00:44  0:00:51  SPEAKER 1
+8   0:00:51  0:00:57  SPEAKER 1
+9   0:00:57  0:01:03  SPEAKER 1
+10  0:01:04  0:01:14  SPEAKER 1
+11  0:01:14  0:01:21  SPEAKER 1
+12  0:01:21  0:01:26  SPEAKER 2
+13  0:01:26  0:01:34  SPEAKER 1
+14  0:01:34  0:01:38  SPEAKER 1
+15  0:01:38  0:01:44  SPEAKER 1
+16  0:01:44  0:01:52  SPEAKER 1
+17  0:01:52  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration9.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration9.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration9.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration9.0.mp4
+
+Transcribing with chunk size: 9.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 9.5 second segment size: 0.4394
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:27  SPEAKER 1
+4   0:00:27  0:00:31  SPEAKER 2
+5   0:00:31  0:00:37  SPEAKER 1
+6   0:00:37  0:00:44  SPEAKER 1
+7   0:00:44  0:00:51  SPEAKER 1
+8   0:00:51  0:00:57  SPEAKER 1
+9   0:00:57  0:01:03  SPEAKER 1
+10  0:01:04  0:01:14  SPEAKER 1
+11  0:01:14  0:01:21  SPEAKER 1
+12  0:01:21  0:01:26  SPEAKER 2
+13  0:01:26  0:01:34  SPEAKER 1
+14  0:01:34  0:01:38  SPEAKER 1
+15  0:01:38  0:01:44  SPEAKER 1
+16  0:01:44  0:01:52  SPEAKER 1
+17  0:01:52  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration9.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration9.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration9.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration9.5.mp4
+
+Transcribing with chunk size: 10.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 10.0 second segment size: 0.4394
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:27  SPEAKER 1
+4   0:00:27  0:00:31  SPEAKER 2
+5   0:00:31  0:00:37  SPEAKER 1
+6   0:00:37  0:00:44  SPEAKER 1
+7   0:00:44  0:00:51  SPEAKER 1
+8   0:00:51  0:00:57  SPEAKER 1
+9   0:00:57  0:01:03  SPEAKER 1
+10  0:01:04  0:01:14  SPEAKER 1
+11  0:01:14  0:01:21  SPEAKER 1
+12  0:01:21  0:01:26  SPEAKER 2
+13  0:01:26  0:01:34  SPEAKER 1
+14  0:01:34  0:01:38  SPEAKER 1
+15  0:01:38  0:01:44  SPEAKER 1
+16  0:01:44  0:01:52  SPEAKER 1
+17  0:01:52  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration10.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration10.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration10.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration10.0.mp4
+
+Transcribing with chunk size: 10.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 10.5 second segment size: 0.4217
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:31  SPEAKER 1
+4   0:00:31  0:00:37  SPEAKER 1
+5   0:00:37  0:00:44  SPEAKER 1
+6   0:00:44  0:00:51  SPEAKER 1
+7   0:00:51  0:00:57  SPEAKER 1
+8   0:00:57  0:01:03  SPEAKER 1
+9   0:01:04  0:01:14  SPEAKER 1
+10  0:01:14  0:01:21  SPEAKER 1
+11  0:01:21  0:01:26  SPEAKER 2
+12  0:01:26  0:01:34  SPEAKER 1
+13  0:01:34  0:01:44  SPEAKER 1
+14  0:01:44  0:01:52  SPEAKER 1
+15  0:01:52  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration10.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration10.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration10.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration10.5.mp4
+
+Transcribing with chunk size: 11.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 11.0 second segment size: 0.4310
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:31  SPEAKER 1
+4   0:00:31  0:00:37  SPEAKER 1
+5   0:00:37  0:00:44  SPEAKER 1
+6   0:00:44  0:00:54  SPEAKER 1
+7   0:00:54  0:01:03  SPEAKER 1
+8   0:01:04  0:01:14  SPEAKER 1
+9   0:01:14  0:01:21  SPEAKER 1
+10  0:01:21  0:01:26  SPEAKER 2
+11  0:01:26  0:01:34  SPEAKER 1
+12  0:01:34  0:01:44  SPEAKER 1
+13  0:01:44  0:01:52  SPEAKER 1
+14  0:01:52  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration11.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration11.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration11.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration11.0.mp4
+
+Transcribing with chunk size: 11.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 11.5 second segment size: 0.1540
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 2
+1   0:00:07  0:00:13  SPEAKER 2
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:31  SPEAKER 2
+4   0:00:31  0:00:37  SPEAKER 1
+5   0:00:37  0:00:44  SPEAKER 1
+6   0:00:44  0:00:54  SPEAKER 1
+7   0:00:54  0:01:03  SPEAKER 1
+8   0:01:04  0:01:14  SPEAKER 1
+9   0:01:14  0:01:26  SPEAKER 2
+10  0:01:26  0:01:34  SPEAKER 1
+11  0:01:34  0:01:44  SPEAKER 1
+12  0:01:44  0:01:52  SPEAKER 1
+13  0:01:52  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration11.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration11.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration11.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration11.5.mp4
+
+Transcribing with chunk size: 12.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 12.0 second segment size: 0.1579
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 1
+1   0:00:07  0:00:13  SPEAKER 1
+2   0:00:13  0:00:21  SPEAKER 2
+3   0:00:21  0:00:31  SPEAKER 1
+4   0:00:31  0:00:37  SPEAKER 2
+5   0:00:37  0:00:44  SPEAKER 2
+6   0:00:44  0:00:54  SPEAKER 2
+7   0:00:54  0:01:03  SPEAKER 2
+8   0:01:04  0:01:14  SPEAKER 2
+9   0:01:14  0:01:26  SPEAKER 1
+10  0:01:26  0:01:38  SPEAKER 2
+11  0:01:38  0:01:49  SPEAKER 2
+12  0:01:49  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration12.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration12.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration12.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration12.0.mp4
+
+Transcribing with chunk size: 12.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 12.5 second segment size: 0.1747
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:07  SPEAKER 2
+1   0:00:07  0:00:13  SPEAKER 2
+2   0:00:13  0:00:21  SPEAKER 1
+3   0:00:21  0:00:31  SPEAKER 2
+4   0:00:31  0:00:44  SPEAKER 1
+5   0:00:44  0:00:54  SPEAKER 1
+6   0:00:54  0:01:03  SPEAKER 1
+7   0:01:04  0:01:14  SPEAKER 1
+8   0:01:14  0:01:26  SPEAKER 2
+9   0:01:26  0:01:38  SPEAKER 1
+10  0:01:38  0:01:49  SPEAKER 1
+11  0:01:49  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration12.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration12.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration12.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration12.5.mp4
+
+Transcribing with chunk size: 13.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 13.0 second segment size: 0.1616
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:13  SPEAKER 2
+1   0:00:13  0:00:21  SPEAKER 1
+2   0:00:21  0:00:31  SPEAKER 2
+3   0:00:31  0:00:44  SPEAKER 1
+4   0:00:44  0:00:57  SPEAKER 1
+5   0:00:57  0:01:08  SPEAKER 1
+6   0:01:09  0:01:21  SPEAKER 1
+7   0:01:21  0:01:34  SPEAKER 2
+8   0:01:34  0:01:44  SPEAKER 1
+9   0:01:44  0:01:56  SPEAKER 1
+10  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration13.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration13.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration13.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration13.0.mp4
+
+Transcribing with chunk size: 13.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 13.5 second segment size: 0.1616
+Transcription Results:
+      Start      End    Speaker
+0   0:00:00  0:00:13  SPEAKER 2
+1   0:00:13  0:00:21  SPEAKER 1
+2   0:00:21  0:00:31  SPEAKER 2
+3   0:00:31  0:00:44  SPEAKER 1
+4   0:00:44  0:00:57  SPEAKER 1
+5   0:00:57  0:01:08  SPEAKER 1
+6   0:01:09  0:01:21  SPEAKER 1
+7   0:01:21  0:01:34  SPEAKER 2
+8   0:01:34  0:01:44  SPEAKER 1
+9   0:01:44  0:01:56  SPEAKER 1
+10  0:01:56  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration13.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration13.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration13.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration13.5.mp4
+
+Transcribing with chunk size: 14.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 14.0 second segment size: 0.1606
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 2
+2  0:00:27  0:00:37  SPEAKER 1
+3  0:00:37  0:00:51  SPEAKER 2
+4  0:00:51  0:01:03  SPEAKER 2
+5  0:01:04  0:01:14  SPEAKER 2
+6  0:01:14  0:01:26  SPEAKER 1
+7  0:01:26  0:01:38  SPEAKER 2
+8  0:01:38  0:01:49  SPEAKER 2
+9  0:01:49  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration14.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration14.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration14.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration14.0.mp4
+
+Transcribing with chunk size: 14.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 14.5 second segment size: 0.1572
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 2
+2  0:00:27  0:00:37  SPEAKER 1
+3  0:00:37  0:00:51  SPEAKER 2
+4  0:00:51  0:01:03  SPEAKER 2
+5  0:01:04  0:01:14  SPEAKER 2
+6  0:01:14  0:01:26  SPEAKER 1
+7  0:01:26  0:01:38  SPEAKER 2
+8  0:01:38  0:01:52  SPEAKER 2
+9  0:01:52  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration14.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration14.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration14.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration14.5.mp4
+
+Transcribing with chunk size: 15.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 15.0 second segment size: 0.1572
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 2
+2  0:00:27  0:00:37  SPEAKER 1
+3  0:00:37  0:00:51  SPEAKER 2
+4  0:00:51  0:01:03  SPEAKER 2
+5  0:01:04  0:01:14  SPEAKER 2
+6  0:01:14  0:01:26  SPEAKER 1
+7  0:01:26  0:01:38  SPEAKER 2
+8  0:01:38  0:01:52  SPEAKER 2
+9  0:01:52  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration15.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration15.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration15.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration15.0.mp4
+
+Transcribing with chunk size: 15.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 15.5 second segment size: 0.1572
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 2
+2  0:00:27  0:00:37  SPEAKER 1
+3  0:00:37  0:00:51  SPEAKER 2
+4  0:00:51  0:01:03  SPEAKER 2
+5  0:01:04  0:01:14  SPEAKER 2
+6  0:01:14  0:01:26  SPEAKER 1
+7  0:01:26  0:01:38  SPEAKER 2
+8  0:01:38  0:01:52  SPEAKER 2
+9  0:01:52  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration15.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration15.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration15.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration15.5.mp4
+
+Transcribing with chunk size: 16.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 16.0 second segment size: 0.1996
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 2
+2  0:00:27  0:00:37  SPEAKER 1
+3  0:00:37  0:00:51  SPEAKER 2
+4  0:00:51  0:01:03  SPEAKER 2
+5  0:01:04  0:01:21  SPEAKER 2
+6  0:01:21  0:01:34  SPEAKER 1
+7  0:01:34  0:01:49  SPEAKER 2
+8  0:01:49  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration16.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration16.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration16.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration16.0.mp4
+
+Transcribing with chunk size: 16.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 16.5 second segment size: 0.1996
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 2
+2  0:00:27  0:00:37  SPEAKER 1
+3  0:00:37  0:00:51  SPEAKER 2
+4  0:00:51  0:01:03  SPEAKER 2
+5  0:01:04  0:01:21  SPEAKER 2
+6  0:01:21  0:01:34  SPEAKER 1
+7  0:01:34  0:01:49  SPEAKER 2
+8  0:01:49  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration16.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration16.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration16.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration16.5.mp4
+
+Transcribing with chunk size: 17.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 17.0 second segment size: 0.1228
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 1
+2  0:00:27  0:00:44  SPEAKER 1
+3  0:00:44  0:00:57  SPEAKER 1
+4  0:00:57  0:01:14  SPEAKER 2
+5  0:01:14  0:01:26  SPEAKER 1
+6  0:01:26  0:01:38  SPEAKER 2
+7  0:01:38  0:01:52  SPEAKER 2
+8  0:01:52  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration17.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration17.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration17.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration17.0.mp4
+
+Transcribing with chunk size: 17.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 17.5 second segment size: 0.1228
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 1
+2  0:00:27  0:00:44  SPEAKER 1
+3  0:00:44  0:00:57  SPEAKER 1
+4  0:00:57  0:01:14  SPEAKER 2
+5  0:01:14  0:01:26  SPEAKER 1
+6  0:01:26  0:01:38  SPEAKER 2
+7  0:01:38  0:01:52  SPEAKER 2
+8  0:01:52  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration17.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration17.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration17.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration17.5.mp4
+
+Transcribing with chunk size: 18.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 18.0 second segment size: 0.2544
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:27  SPEAKER 1
+2  0:00:27  0:00:44  SPEAKER 1
+3  0:00:44  0:00:57  SPEAKER 1
+4  0:00:57  0:01:14  SPEAKER 1
+5  0:01:14  0:01:26  SPEAKER 1
+6  0:01:26  0:01:38  SPEAKER 1
+7  0:01:38  0:01:56  SPEAKER 1
+8  0:01:56  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration18.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration18.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration18.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration18.0.mp4
+
+Transcribing with chunk size: 18.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 18.5 second segment size: 0.1973
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:31  SPEAKER 1
+2  0:00:31  0:00:44  SPEAKER 1
+3  0:00:44  0:00:57  SPEAKER 1
+4  0:00:57  0:01:14  SPEAKER 1
+5  0:01:14  0:01:26  SPEAKER 2
+6  0:01:26  0:01:44  SPEAKER 1
+7  0:01:44  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration18.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration18.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration18.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration18.5.mp4
+
+Transcribing with chunk size: 19.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 19.0 second segment size: 0.1973
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:31  SPEAKER 1
+2  0:00:31  0:00:44  SPEAKER 1
+3  0:00:44  0:00:57  SPEAKER 1
+4  0:00:57  0:01:14  SPEAKER 1
+5  0:01:14  0:01:26  SPEAKER 2
+6  0:01:26  0:01:44  SPEAKER 1
+7  0:01:44  0:02:01  SPEAKER 1
+Moviepy - Building video /content/videoplayback_label_duration19.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration19.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration19.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration19.0.mp4
+
+Transcribing with chunk size: 19.5 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 19.5 second segment size: 0.2907
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:31  SPEAKER 1
+2  0:00:31  0:00:44  SPEAKER 1
+3  0:00:44  0:01:03  SPEAKER 1
+4  0:01:04  0:01:21  SPEAKER 1
+5  0:01:21  0:01:38  SPEAKER 1
+6  0:01:38  0:01:56  SPEAKER 1
+7  0:01:56  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration19.5.mp4.
+MoviePy - Writing audio in videoplayback_label_duration19.5TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration19.5.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration19.5.mp4
+
+Transcribing with chunk size: 20.0 seconds
+
+Audio duration: 0:02:01
+Silhouette Score for 20.0 second segment size: 0.1418
+Transcription Results:
+     Start      End    Speaker
+0  0:00:00  0:00:13  SPEAKER 1
+1  0:00:13  0:00:31  SPEAKER 1
+2  0:00:31  0:00:51  SPEAKER 2
+3  0:00:51  0:01:08  SPEAKER 1
+4  0:01:09  0:01:26  SPEAKER 1
+5  0:01:26  0:01:44  SPEAKER 2
+6  0:01:44  0:02:01  SPEAKER 2
+Moviepy - Building video /content/videoplayback_label_duration20.0.mp4.
+MoviePy - Writing audio in videoplayback_label_duration20.0TEMP_MPY_wvf_snd.mp3
+
+MoviePy - Done.
+Moviepy - Writing video /content/videoplayback_label_duration20.0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /content/videoplayback_label_duration20.0.mp4
+
+

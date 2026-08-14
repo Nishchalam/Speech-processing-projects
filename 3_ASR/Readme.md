@@ -35,4 +35,40 @@ Whisper Feature Extractor
       ↓
 Whisper-Tiny
       ↓
-Text Transcription 
+Text Transcription `````
+````
+
+The WhisperProcessor was used for both audio feature extraction and text tokenization.
+
+A custom data collator was implemented to handle variable-length audio features and transcription labels.
+
+The pretrained: openai/whisper-tiny
+
+checkpoint was fine-tuned using Hugging Face's Seq2SeqTrainer.
+
+The experiments investigated the effect of:
+
+Learning rate
+Number of training epochs
+Gradient accumulation
+Mixed-precision training
+Gradient checkpointing
+
+Several configurations were compared, including learning rates of 1e-5 and 5e-6, different training durations, and gradient accumulation settings.
+
+The primary evaluation metric was:WER was used to monitor validation performance and select the best-performing model.
+
+Technologies
+```
+Python
+PyTorch
+Hugging Face Transformers
+Hugging Face Datasets
+Whisper-Tiny
+Mozilla Common Voice
+TensorBoard
+CUDA / mixed-precision training
+Repository Contents
+asr-assamese-ipynb.ipynb — fine-tuning and evaluation notebook
+ASR_EE24S004_Report.pdf — detailed report
+````
